@@ -1,4 +1,4 @@
 # PowerBI-Sandbox
 Power BI is a business analytics service that delivers insights to enable fast, informed decisions.
 ***
-![image](https://user-images.githubusercontent.com/19554935/49619410-79db0500-f98a-11e8-80dd-ffa115e6fc2f.png)
+![image](https://user-images.githubusercontent.com/19554935/49619449-99722d80-f98a-11e8-9375-8ff92a18ffb5.png)
