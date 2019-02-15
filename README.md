@@ -7,4 +7,4 @@ Power BI is a business analytics service that delivers insights to enable fast, 
 ![Alt Text](https://github.com/ofuen/PowerBI-Sandbox/blob/master/sample/2018-12-06_19-15-22.gif)
 ***
 ## Best and worst states for retirement
-![Alt Text](https://github.com/ofuen/PowerBI-Sandbox/blob/master/sample/2018-12-06_19-15-22.gif)
+![Alt Text](https://github.com/ofuen/PowerBI-Sandbox/blob/master/sample/2019-02-15_13-17-49.gif)
